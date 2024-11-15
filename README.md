@@ -3,7 +3,10 @@
 Simple pokedex integration with react-native.
 
 > [!NOTE]
-> Check out the demo video: https://www.loom.com/share/39c04faa191342e1bf8382bb119aa32a
+> Check out the demo videos:
+>
+> - First iteration: https://www.loom.com/share/39c04faa191342e1bf8382bb119aa32a
+> - Second iteration: https://www.loom.com/share/c11fbc46eb6d4baa966bc98fdf81abae
 
 Bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli). Opted-out from Expo to check out the RN CLI.
 
